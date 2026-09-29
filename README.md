@@ -1,7 +1,8 @@
-# uncmit-wcge
+# unMicrosoft-Windows
 
-从原版 **Windows 10 神州网信政府版 (wcge)** 的 `install.wim` 中移除 CMIT 闭源组件，
-同时保留所有非 CMIT 的系统定制（区域设置、LGPO 本地策略、OOBE 隐藏、开始菜单布局、品牌图、遥测隐私策略）。
+本项目帮助用户从原版 **Windows 10 神州网信政府版 (wcge)** 的 `install.wim` 中移除 CMIT 闭源组件，
+同时保留所有非 CMIT 的系统定制（服务禁用、LGPO 本地策略、遥测隐私策略），
+帮助你制作一个完全脱离了 Microsoft 的远程监控且不包含 CMIT 闭源组件的 Windows，确保数据安全可控。
 
 ## 它做了什么
 
